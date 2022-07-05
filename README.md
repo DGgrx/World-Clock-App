@@ -9,7 +9,8 @@ This App shows real-time update of time of various countries.
 
 <http://worldtimeapi.org/>
 
-
+### Credits :- TheNetNinjas 
+<https://www.youtube.com/c/TheNetNinja>
 
 
 
